@@ -1,3 +1,6 @@
+
+---
+
 # 📘 PHP E-Learning App 🎓
 
 Welcome to the PHP E-Learning App repository! This project is a web-based application built with PHP for online learning purposes.
@@ -16,13 +19,19 @@ The PHP E-Learning App offers various features including:
 
 ## 💻 Technologies Used
 
-The project utilizes the following technologies:
-- PHP 🐘
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+| Backend       | Database  | Frontend      | Styling    |
+|:-------------:|:---------:|:-------------:|:----------:|
+| PHP 🐘        | MySQL     | HTML          | Bootstrap  |
+|               |           | CSS           |            |
+|               |           | JavaScript    |            |
+
+## 📂 Project Structure
+
+The project structure includes:
+- PHP files for backend functionality
+- HTML templates for frontend views
+- CSS and JavaScript files for styling and interactivity
+- Database schema for MySQL database
 
 ## 🚀 How to Run
 
@@ -34,14 +43,6 @@ To run the PHP E-Learning App:
 5. Start the PHP server and MySQL database.
 6. Access the application through the web browser.
 
-## 📊 Project Structure
-
-The project structure includes:
-- PHP files for backend functionality
-- HTML templates for frontend views
-- CSS and JavaScript files for styling and interactivity
-- Database schema for MySQL database
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
@@ -49,3 +50,5 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
